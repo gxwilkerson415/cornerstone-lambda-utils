@@ -1,4 +1,4 @@
-module github.com/cornerstone/lambda/utils
+module github.com/gxwilkerson415/cornerstone-lambda-utils
 
 go 1.18
 
